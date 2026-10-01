@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# node
+node_modules/
+frontend/dist/
+
+# scratch
+_ui*.png
+
+# os
+.DS_Store
